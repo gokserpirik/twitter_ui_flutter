@@ -2,6 +2,7 @@
 
 A basic project I made before when I was learning Flutter(one month ago, I guess). It looks simple and it is simple. Just UI based coding.
 I'm putting this in here to let you see my first codes in Flutter. I hope as long as I get better at coding in Flutter this will be my "really old times" at coding.
+
 When starting the project I named it as "twitha" bc it kinda looks like British English pronounciation of Twitter.
  
 ## Getting Started
