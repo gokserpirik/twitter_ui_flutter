@@ -14,6 +14,7 @@ Also check assets:
 ## Samples
 
 Tbh, I didn't try to make every page great. It was my first project try so I only made basics of it. 
+
  ![githubtwitha (4)](https://user-images.githubusercontent.com/48176173/136194398-ae0e2676-1e09-4ac4-8cff-cf50e10a84a4.jpeg)
 ![githubtwitha (3)](https://user-images.githubusercontent.com/48176173/136194432-e4ed697a-1739-4c1f-b8a5-7de9ce25789a.jpeg)
 ![githubtwitha (1)](https://user-images.githubusercontent.com/48176173/136194435-3ea3b405-cf4b-4965-9539-aa04350fcde8.jpeg)
