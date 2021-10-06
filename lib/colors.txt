@@ -1,0 +1,21 @@
+/* Color Theme Swatches in Hex */
+$twitter-1-hex: #4090C0;
+$twitter-2-hex: #57B2F7;
+$twitter-3-hex: #B1D3F0;
+$twitter-4-hex: #F0F5FA;
+$twitter-5-hex: #000000;
+
+/* Color Theme Swatches in RGBA */
+$twitter-1-rgba: rgba(63,144,191, 1);
+$twitter-2-rgba: rgba(86,177,246, 1);
+$twitter-3-rgba: rgba(177,211,239, 1);
+$twitter-4-rgba: rgba(239,244,249, 1);
+$twitter-5-rgba: rgba(0,0,0, 1);
+
+/* Color Theme Swatches in HSLA */
+$twitter-1-hsla: hsla(202, 50, 50, 1);  awkward blue
+$twitter-2-hsla: hsla(205, 90, 65, 1); best blue
+$twitter-3-hsla: hsla(207, 67, 81, 1); light blue
+$twitter-4-hsla: hsla(210, 50, 96, 1); white
+$twitter-5-hsla: hsla(0, 0, 0, 1); black
+
